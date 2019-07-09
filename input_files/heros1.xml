@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fortnight>
+
+<hero>
+<name>Guardian</name>
+<characters>Bull,Knox,Penny</characters>
+<rarities>Rare,Epic,Legendary</rarities>
+</hero>
+
+<hero>
+<name>Deadly Blade</name>
+<characters>Crash,Scorpion</characters>
+<rarities>Epic,Legendary</rarities>
+</hero>
+
+<hero>
+<name>Enforcer</name>
+<characters>Grizzly</characters>
+<rarities>Uncommon,Rare,Epic,Legendary</rarities>
+</hero>
+
+</fortnight>
